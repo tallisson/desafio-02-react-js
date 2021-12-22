@@ -1,4 +1,4 @@
-import { GenreResponseProps } from '@types-genre';
+import { GenreResponseProps } from '@types-data';
 import { Button } from './Button';
 
 import '../styles/sidebar.scss';
